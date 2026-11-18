@@ -1,5 +1,3 @@
-
-````markdown
 # Open Engineering Story
 
 **Stories are assembled, not built from scratch.**
@@ -333,4 +331,4 @@ But the architecture should always serve the storyteller.
 ---
 
 *Open Engineering Story — Assembling stories from reusable narrative elements, without losing the art of storytelling.*
-````
+
