@@ -2,6 +2,8 @@
 
 **Stories are assembled, not built from scratch.**
 
+![Open Engineering Story hero-banner.png](../assets/hero-banner.png)
+
 Welcome to **Open Engineering Story**, the home of individual stories created using the Open Engineering composable storytelling architecture.
 
 We believe that stories, like software, can be composed from reusable elements without sacrificing originality, creativity, or emotional impact.
